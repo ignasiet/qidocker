@@ -1,0 +1,9 @@
+#Ignore any file
+.
+*/*
+
+##Except
+!Dockerfile
+!start.sh
+!README.md
+!.gitignore
